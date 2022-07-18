@@ -35,21 +35,21 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mkeller3/FastVector?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/mkeller3/FastVector"><b>FastGeospatial</b></a></td>
+      <td><a href="https://github.com/mkeller3/FastGeospatial"><b>FastGeospatial</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/mkeller3/FastGeospatial?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/mkeller3/FastGeospatial?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/mkeller3/FastGeospatial?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mkeller3/FastGeospatial?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/mkeller3/FastVector"><b>FastImporter</b></a></td>
+      <td><a href="https://github.com/mkeller3/FastImporter"><b>FastImporter</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/mkeller3/FastImporter?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/mkeller3/FastImporter?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/mkeller3/FastImporter?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mkeller3/FastImporter?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/mkeller3/FastVector"><b>FastGeofeature</b></a></td>
+      <td><a href="https://github.com/mkeller3/FastGeofeature"><b>FastGeofeature</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/mkeller3/FastGeofeature?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/mkeller3/FastGeofeature?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/mkeller3/FastGeofeature?style=flat-square&labelColor=343b41"/></td>
