@@ -73,6 +73,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/mkeller3/FastGeostats?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mkeller3/FastGeostats?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/mkeller3/FastGeoTable"><b>FastGeoTable</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mkeller3/FastGeoTable?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mkeller3/FastGeoTable?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/mkeller3/FastGeoTable?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mkeller3/FastGeoTable?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
