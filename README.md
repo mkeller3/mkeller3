@@ -17,7 +17,7 @@
   <a href="https://www.mapbox.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mapbox/mapbox-icon.svg" alt="mapbox" width="60" height="60"/></a>
   <a href="https://www.esri.com/en-us/home" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F4vector.com%2Fi%2Ffree-vector-esri_084838_esri.png&f=1&nofb=1" alt="esri" width="60" height="60"/></a>
   <a href="https://leafletjs.com/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2699%2FPNG%2F512%2Fleafletjs_logo_icon_170303.png&f=1&nofb=1" alt="leaflet" width="60" height="60"/></a>
-  <a href="[https://kubernetes.io](https://aws.amazon.com/)/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="60" height="60"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="60" height="60"/></a>
   <a href="https://kubernetes.io/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.iconfinder.com%2Fdata%2Ficons%2Fmixd%2F512%2F16_kubernetes-512.png&f=1&nofb=1" alt="kubernetes" width="60" height="60"/></a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="60" height="60"/></a>
   <a href="https://about.gitlab.com/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-xhNpNJJyQhk%2FXIe4GY78RQI%2FAAAAAAAAItc%2FouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw%2Fs1600%2Flogo%252Bgit%252Bicon.png&f=1&nofb=1" alt="git" width="60" height="60"/></a>
